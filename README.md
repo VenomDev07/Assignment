@@ -52,5 +52,5 @@ FRONTEND :
    When the user uploads image its path will store in the Database as well as the image will be copy pasted
    in the image folder. Then Based on image folder and image path The image will be displayed on the Home page.
 
-   Note: if image file doesnt content Image. Then first upload image from My Account.
-   -
+Note: if image file doesnt content Image. Then first upload image from My Account.
+ -

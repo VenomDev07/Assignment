@@ -1,9 +1,9 @@
 # Assignment
 
 Note : Database is outside the main data folder (Assignment)
-
+-
 DATABASE STRUCTURE : 
-
+-
 1. Table- userdata:
    It is used for storing users Sign-up Data.
    Also it is used for Log-in.
@@ -51,5 +51,6 @@ FRONTEND :
    This file has form for image upload and displays its database in tabular format.
    When the user uploads image its path will store in the Database as well as the image will be copy pasted
    in the image folder. Then Based on image folder and image path The image will be displayed on the Home page.
+
    Note: if image file doesnt content Image. Then first upload image from My Account.
-   
+   -

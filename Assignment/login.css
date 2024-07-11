@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    font-family: "Montserrat";
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    width:800px;
+}
+
+.row .container .box1{
+    background-color:aliceblue;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.row .container .box2{
+    background-color:rgb(23, 29, 200);
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 label{
+    color: aliceblue;
+}
+
+
+label{
+    font-family: "Montserrat",sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+button{
+    font-size: 16px;
+    height: 40px;
+    width: 120px;
+    border-radius: 16px;
+    border: none;
+    margin-top: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input{
+    height: 35px;
+    width: 260px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+
+.box1 button{
+    background-color: rgb(23, 29, 200);
+    color: white;
+}
+
+.box2 button{
+    background-color: aliceblue;
+    color: rgb(23, 29, 200);
+}

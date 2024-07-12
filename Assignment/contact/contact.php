@@ -13,7 +13,7 @@
             $city = $_POST['city'];
             $message = $_POST['message'];
 
-            $query = "INSERT INTO condata(name,address,city,message) VALUES('$name','$address','$city','message')";
+            $query = "INSERT INTO condata(name,address,city,message) VALUES('$name','$address','$city','$message')";
             $query_run = mysqli_query($con, $query);
             if($query_run)
                 {

@@ -36,7 +36,7 @@ FRONTEND :
 3. adminOperations.php:
    When the Admin is logged-in. This page will display Contact data.
    The Admin can can Manipulate by Updating and Deleting the data.
-   the Update button will redirect to update.php for updation Form and the Delete button will the Data Based on Table ID.
+   the Update button will redirect to update.php for updation Form and the Delete button will Delete the Data Based on Table ID.
 
 4. Login.html:
    login link is clicked it is redirected to Login and Signin Form.

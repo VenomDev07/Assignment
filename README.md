@@ -41,7 +41,7 @@ FRONTEND :
 4. Login.html:
    login link is clicked it is redirected to Login and Signin Form.
    if the user is new they must sign in and the userdata will store in userdata Table.
-   Once Signin user can Login. Onece Loggedin they is redirected to home.php
+   Once Signin user can Login. Onece Loggedin they are redirected to home.php
 
 5. home.php:
    Home has 2 link Home and My Account.

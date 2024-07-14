@@ -22,7 +22,7 @@ DATABASE STRUCTURE :
 FRONTEND :
 -
 1. index.html:
-   It is an Staring page that has 4 Links
+   It is an Starting page that has 4 Links
    -home.
    -admin.html
    -Login.html

@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="container">
                     <form method="post">
-                        <h1>Update</h1><br>
+                        <h1>Contact</h1><br>
                         <label for="">Name</label>
                         <input type="text" name="name" required ><br>
                         <label for="">Your Address</label>
